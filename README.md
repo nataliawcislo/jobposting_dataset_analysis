@@ -30,7 +30,7 @@ The dataset has been cleared, operations such as:
 - other ...
 
 
-#Prediction:
+# Prediction:
 Based on information about:
 • information about the position
 • the company - information about the company's size and stability (functioning
@@ -67,7 +67,7 @@ Cat:
 - 4: Lead i Head - the main person in charge of the team, advanced level of knowledge in programming
 - 5: Researcher - researcher, advanced level of knowledge.
 
-# Prediction - used models:
+#Prediction - used models:
 - Linear Regression 
 - Logic Regression 
 - Support Vector Regression 
